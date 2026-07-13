@@ -6,7 +6,7 @@ def question1():
 
     Replace the return value with your answer.
     """
-    return 3
+    return 0
 
 
 def question2():
@@ -17,7 +17,7 @@ def question2():
 
     Replace the return value with your answer.
     """
-    return 12
+    return 0
 
 
 def question3():
@@ -28,4 +28,4 @@ def question3():
 
     Replace the text with your answer.
     """
-    return "string"
+    return "The DatatType"
