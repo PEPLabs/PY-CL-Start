@@ -28,4 +28,4 @@ def question3():
 
     Replace the text with your answer.
     """
-    return "The DatatType"
+    return "The DataType"
